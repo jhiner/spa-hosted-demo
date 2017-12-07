@@ -1,0 +1,9 @@
+{
+  "name": "spa-hosted-login",
+  "files": [
+    "app.js",
+    "auth0-variables.js",
+    "index.html",
+    "main.css"
+  ]
+}
